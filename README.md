@@ -1,2 +1,2 @@
-# number-guessing-game
-This is my second project
+# CLI-number-guessing-
+This is my first number guessing game
